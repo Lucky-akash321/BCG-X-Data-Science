@@ -32,6 +32,10 @@ BCGX Data Science Gamma is a specialized division within Boston Consulting Group
 - **Demand Forecasting:** Time-series modeling for inventory and sales predictions.  
 - **Healthcare Analytics:** AI-assisted diagnostics and patient risk assessment.  
 
+
+![](https://github.com/Lucky-akash321/BCG-X-Data-Science/blob/main/bcgx%20gamma.jpeg)
+
+
 ## Career Opportunities
 BCGX Data Science Gamma offers roles in:  
 - Data Science & AI Engineering  

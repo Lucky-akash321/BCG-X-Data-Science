@@ -1,5 +1,8 @@
 # BCGX Data Science Gamma
 
+![](https://github.com/Lucky-akash321/BCG-X-Data-Science/blob/main/bcgx%20ds.jpg)
+
+
 ## Overview
 BCGX Data Science Gamma is a specialized division within Boston Consulting Group (BCG) that focuses on advanced analytics, AI, and machine learning to solve complex business challenges. By integrating data science with strategy, BCGX Gamma delivers high-impact solutions across industries.
 
